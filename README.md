@@ -33,4 +33,4 @@ The following is a list of general scripts designed for use on many kinds of for
 | Name | Documentation | Code | 
 |:-------------:|---------|:---------:|
 |Refund Routing|[Docs](https://github.com/PVCSD/Frevvo-Scripts/blob/master/documentation/Refund.md)|[JS](https://github.com/PVCSD/Frevvo-Scripts/blob/master/scripts/route_by_school.js)|
-|Student Demo Grade|[Docs]()|[JS](https://github.com/PVCSD/Frevvo-Scripts/blob/master/scripts/Set_Grade_Options_By_School.js)}
+|Student Demo Grade|[Docs]()|[JS](https://github.com/PVCSD/Frevvo-Scripts/blob/master/scripts/Set_Grade_Options_By_School.js)|
