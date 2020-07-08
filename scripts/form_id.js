@@ -16,7 +16,7 @@ if (!(FormID.value)) {
 	var mili = date.getMilliseconds().toString();
   
   // put the peices together
-	var n = year+'-'+month+'-'+day+'-'+hour+':'+minutes+':'+seconds+':'+mili+' 'submitterName;
+	var n = year+'-'+month+'-'+day+'-'+hour+':'+minutes+':'+seconds+':'+mili+' '+submitterName;
   
   // Set the field Value
 	FormID.value = n;
